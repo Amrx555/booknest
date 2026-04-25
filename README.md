@@ -11,7 +11,7 @@ You can explore the live site here:
 ---
 
 ## 📸 Preview
-![BookNest Preview](89999.jpg)
+![BookNest Preview](6010087852470897560_121.jpg)
 
 ---
 
