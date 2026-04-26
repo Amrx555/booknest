@@ -6,7 +6,7 @@ BookNest is a dynamic book exploration platform powered by an external API. It a
 
 ## 🌐 Live Demo
 You can explore the live site here: 
-👉 [effortless-pegasus-c86822.netlify.app](https://effortless-pegasus-c86822.netlify.app/)
+👉 [effortless-pegasus-c86822.netlify.app](https://booknest-eta.vercel.app/)
 
 ---
 
